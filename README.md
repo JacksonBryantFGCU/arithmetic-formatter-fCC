@@ -49,25 +49,22 @@ bash
 Copy
 Edit
 # Run the script
+```
 python main.py
+```
 Or use the function inside another script:
-
-python
-Copy
-Edit
+```
 from main import arithmetic_arranger
-
+```
+```
 output = arithmetic_arranger(["32 + 8", "1 - 3801"], True)
 print(output)
+```
 📄 License
 This project is licensed under the MIT License.
 
 🌐 Certification Link
 This project was completed as part of freeCodeCamp's Scientific Computing with Python.
-
-yaml
-Copy
-Edit
 
 ---
 
