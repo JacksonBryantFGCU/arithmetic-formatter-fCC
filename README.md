@@ -40,8 +40,8 @@ print(arithmetic_arranger(["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"], Tru
 ----    ------    ------    ----
   40     -3800     19998      474
 ```
-🛠 Usage
-# Run the script
+# 🛠 Usage
+## Run the script
 ```
 python main.py
 ```
